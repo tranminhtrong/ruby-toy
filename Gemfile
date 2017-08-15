@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.2'
+gem 'rails',        '5.1.3'
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
@@ -16,7 +16,7 @@ end
 
 group :development do
   gem 'web-console',           '3.5.1'
-  gem 'listen',                '3.0.8'
+  gem 'listen',                '3.1.5'
   gem 'spring',                '2.0.2'
   gem 'spring-watcher-listen', '2.0.1'
 end
